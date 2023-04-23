@@ -22,4 +22,14 @@ Rate your comfort and choose the matching activity
 
 - Which resource did you choose to use?
 
+![Join Quiz](./screenshots/JoinQuiz.png)
+
+![Join Quiz 2](./screenshots/JoinQuiz2.png)
+
 - What are three things you learned during this lab?
+
+I learned that DISTINCT removes any duplicate rows.
+
+I also learned you can JOIN more than one table at a time.
+
+Finally, I learned that you can JOIN tables without showing the values/columns you are joining them on.
